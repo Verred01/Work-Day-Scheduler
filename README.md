@@ -12,7 +12,7 @@ N/A
 This is a class project to be used for grading and checking that I did the assignment correctly.
 
 # Screenshot
-![Alt text](</Work-Day-Scheduler/Assets/img/Work Day Scheduler.png>)
+![Alt text](<./Assets/img/Work Day Scheduler.png>)
 
 # Deployed
 https://verred01.github.io/Work-Day-Scheduler/
